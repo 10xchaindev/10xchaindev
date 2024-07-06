@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @10xchaindev
+- 👀 I’m interested in writing smart contracts
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on startup ideas
+- 📫 How to reach me on telegram @tenxchaindev
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm the lead developer at hashfund
